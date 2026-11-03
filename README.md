@@ -8,7 +8,7 @@
 
 在国内用 Claude、Claude Code，被封号是常有的事。这里把常见的封号情形、官方条款怎么写、几种用法各自的麻烦整理在一起。能查到出处的给出处，查不到的直接写「没有数据」。
 
-QQ 交流群：[1125726780（点击加入）](https://qm.qq.com/q/K2acaywxCG)
+[Claude 防封号交流群](https://qm.qq.com/q/K2acaywxCG)
 
 ---
 
@@ -163,4 +163,4 @@ Claude Code 是官方工具，拿它写代码没问题。麻烦在于官方支�
 
 本仓库与 Anthropic, PBC 无关。Claude、Anthropic 是 Anthropic, PBC 的商标。内容仅供参考，照着做出了问题自己负责。
 
-QQ 交流群：[1125726780（点击加入）](https://qm.qq.com/q/K2acaywxCG)
+[Claude 防封号交流群](https://qm.qq.com/q/K2acaywxCG)

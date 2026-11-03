@@ -26,4 +26,4 @@
 
 ## 交流
 
-QQ 群：[1125726780（点击加入）](https://qm.qq.com/q/K2acaywxCG)
+[Claude 防封号交流群](https://qm.qq.com/q/K2acaywxCG)
