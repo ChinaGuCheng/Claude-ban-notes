@@ -26,4 +26,4 @@
 
 ## 交流
 
-[点击加入 Claude 防封号交流群 1125726780](https://qm.qq.com/q/K2acaywxCG)
+[点击加入 GPT Claude 防封号交流群 1125726780](https://qm.qq.com/q/K2acaywxCG)

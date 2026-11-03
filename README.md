@@ -8,7 +8,7 @@
 
 在国内用 Claude、Claude Code，被封号是常有的事。这里把常见的封号情形、官方条款怎么写、几种用法各自的麻烦整理在一起。能查到出处的给出处，查不到的直接写「没有数据」。
 
-[点击加入 Claude 防封号交流群 1125726780](https://qm.qq.com/q/K2acaywxCG)
+[点击加入 GPT Claude 防封号交流群 1125726780](https://qm.qq.com/q/K2acaywxCG)
 
 ---
 
@@ -157,10 +157,12 @@ Claude Code 是官方工具，拿它写代码没问题。麻烦在于官方支�
 
 ## 参与和许可
 
+GPT、Codex 降智怎么测、怎么办，见 [GPT-downgrade-notes](https://github.com/ChinaGuCheng/GPT-downgrade-notes)。
+
 被封过、发现哪里写错了、或者有新情况，欢迎开 [Issue](https://github.com/ChinaGuCheng/Claude-ban-notes/issues) 或提 PR，规则见 [CONTRIBUTING.md](CONTRIBUTING.md)。
 
 本仓库最初整理自 [Fishason/Claude-anti-ban](https://github.com/Fishason/Claude-anti-ban)（MIT），2026-11-03 起全部重写，按 [MIT License](LICENSE) 开源。
 
 本仓库与 Anthropic, PBC 无关。Claude、Anthropic 是 Anthropic, PBC 的商标。内容仅供参考，照着做出了问题自己负责。
 
-[点击加入 Claude 防封号交流群 1125726780](https://qm.qq.com/q/K2acaywxCG)
+[点击加入 GPT Claude 防封号交流群 1125726780](https://qm.qq.com/q/K2acaywxCG)
